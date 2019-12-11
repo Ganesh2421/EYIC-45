@@ -185,7 +185,7 @@ We provide a simple solution in the form of a plastic bottle recycling reverse v
 \section{Shredder}
 \Large
 Shredder is a tool which is used for shredding the plastic bottles into small pieces which will facilitate the melting process.
-Making of shredder requires laser cut parts which are made of Mild Steel. By using a single phase-AC induction motor (1.5 HP, 2500 RPM) we are rotating the shaft of Shredder, whose RPM is \\reduced by using a 100:1 reduction gear box and the torque is increased to certain threshold which is required to shred the plastic properly.
+Making of shredder requires laser cut parts which are made of Mild Steel and it is designed using the software \textbf{Solidworks}\\(link:-\href{https://www.solidworks.com/sw/support/downloads.htm}{https://www.solidworks.com/sw/support/downloads.htm}). By using a single phase-AC induction motor (1.5 HP, 2500 RPM) we are rotating the shaft of Shredder, whose RPM is reduced by using a 100:1 reduction gear box and the torque is increased to certain threshold which is required to shred the plastic properly.
 Now the shredded plastic will proceed to further process. 
 \newline
 \section{Separation Chamber}
@@ -203,7 +203,7 @@ A \textbf{High torque DC motor} is used to rotate the shaft that is connected to
 \begin{itemize}
     	\item Arduino Duo/Mega
 	 \item C (language used)
-	 \item Arduino IDE
+	 \item Arduino IDE (installation link:- \href{https://arduino.en.softonic.com/}{https://arduino.en.softonic.com/})
 	\item 7 inch TFT LCD display
 \end{itemize}
 This section will provide the users the information regarding different types of bottles, number of bottles the users wants to insert and also will provide them to select the dimensions of the bottle that they want to put. It will also provide instruction to the user to remove the label and cap and also empty the fluid inside the  bottle before inserting. It will also display the error message in case if fluid is present in the bottle or label is present.      
