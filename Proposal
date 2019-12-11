@@ -19,6 +19,10 @@
  left=20mm,
  top=20mm,
  }
+%\documentclass{beamer}
+%\usetheme{Madrid}
+%\usecolortheme{beaver}
+
 
 
  
@@ -137,7 +141,7 @@ We provide a simple solution in the form of a plastic bottle recycling reverse v
 \item Overusage of Plastic
 \end{itemize}
 
-\newpage
+%\newpage
 
 \begin{center}
     
@@ -155,7 +159,7 @@ We provide a simple solution in the form of a plastic bottle recycling reverse v
 \end{itemize}
 \vspace{1cm}
 \begin{center}
-    
+    \newpage
     \LARGE{\textsc {\textbf{STAKEHOLDERS}}}\\[0.5cm]
     
 \end{center}
@@ -176,7 +180,8 @@ We provide a simple solution in the form of a plastic bottle recycling reverse v
     \ \LARGE{\textsc {\textbf{IMPLEMENTATION}}}\\
 \end{flushleft}
 \vspace{0.5cm}
-\includegraphics[width=16cm, height=18cm]{imp1.jpeg}
+\includegraphics[width=16cm, height=23cm]{imp1.jpeg}
+\newpage
 \section{Shredder}
 \Large
 Shredder is a tool which is used for shredding the plastic bottles into small pieces which will facilitate the melting process.
@@ -208,9 +213,9 @@ This section will provide the users the information regarding different types of
 This system will contain coins of a particular amount and depending upon the type and number of bottles inserted by the user, it will provide the user with small token amount in exchange for the bottles. A mechanism consisting of laser transmitter and suitable receiver and dc motor to dispatch the amount.
 \newline
 \begin{center}
-\includegraphics[width=16cm, height=20cm]{imp2.jpeg}    
+\includegraphics[width=16cm, height=25cm]{imp2.jpeg}    
 \end{center}
-
+\newpage
 \section{Feasibility}
 \Large
 Our proposed project idea is highly suitable to be used in colleges due to the recycled final product which will be of use to the college in which it is placed and provides an avenue for the college to save resources. The machine requires low maintenance. To further expand the idea in future, external molds can be added to the outlet of the extruder to produce different recycled articles depending upon the needs of the stakeholder. It has the potential to be used at public places l like railway stations, tourist spots, etc. which will accelerate the efforts of government to  curb plastic pollution while also reducing requirements of manpower and resources. It lacks a mechanism to clean the bottles which are inserted, hence there is a risk of the machine wearing down due to the presence of foreign particles. The machine is not capable of removing the labels from the bottles, hence care should be taken while inserting the bottles to reduce the possibility of harm to the machine. Care should be taken to insert only the specific type of bottle which will be selected by the user in the GUI, or it may result in plastic being burnt and clogging the whole machine. A continuous supply of electricity is required, hence in case of a power outage the machine will stop working.
