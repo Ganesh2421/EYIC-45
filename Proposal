@@ -1,3 +1,4 @@
+  
 \documentclass{article}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -26,7 +27,7 @@
 
 
  
-\graphicspath{ {C:\Users\Administrator.Ganesh-PC\Downloads}{C:\Users\Administrator.Ganesh-PC\Downloads} }
+\graphicspath{ {C:\Users\Administrator.Ganesh-PC\Desktop\project}{C:\Users\Administrator.Ganesh-PC\Desktop\project} }
  
 \newpage
 \begin{document}
@@ -228,4 +229,5 @@ Our proposed project idea is highly suitable to be used in colleges due to the r
 \item Making of 3D printer filament-\href{https://www.instructables.com/id/Build-your-own-3d-printing-filament-factory-Filame/}{https://www.instructables.com/id/Build-your-own-3d-printing-filament-factory-Filame/}
 \end{enumerate}
 \end{document}
+
 
